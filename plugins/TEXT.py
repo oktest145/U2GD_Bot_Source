@@ -45,4 +45,4 @@ DROPBOX = True
 MEGA = True
 
 
-UPDATE = """Try @BhadooCloud"""
+UPDATE = """Try @ironmancloud"""
